@@ -1,5 +1,5 @@
 === De-Motivationals ===
 
-* A concept created with KineticJs. 
+* A concept created with KineticJs (http://kineticjs.com/ no longer maintened). 
 * Add your motivational to any image  
 * The background picture is mine!!! 
