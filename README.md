@@ -1,6 +1,6 @@
 # README #
 
-Various demos/concepts/experiment made with JS (library and custom script) 
+Various demos/concepts/experiments made with JS (library and custom script) 
 
 ### Content ###
 
