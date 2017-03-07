@@ -1,3 +1,3 @@
 === Matrix-like view ===
 
-* A concept made in javascript using random characters and colors  
+* A visual concept made in html/javascript using random characters and colors  
