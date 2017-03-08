@@ -1,0 +1,110 @@
+body
+{
+	background-color: #1C6C3C;;
+}
+
+label
+{
+	/*margin-right:5px;*/
+	float: left;
+	width: 200px;
+	font-weight: bold;	
+}
+
+
+#box 
+{
+	border-style: outset;
+	border-width: 1px;
+	padding: 5px;
+	background-image: url(randori.logo.png);
+	background-color: #fff;
+	background-position: right top;
+	background-repeat: no-repeat;
+	opacity: 1;
+	volume: 50;
+	
+	margin:10px auto;
+	
+	
+	
+	width: 400px;
+
+}
+
+#rules
+{
+	background-color: #fff;
+	padding:5px;
+	border:1px solid #000;
+	/*width: 250px;*/
+	width: 400px;	
+	height:350px;
+		
+	margin:10px auto;
+	
+	/*opacity: 0.30;		-moz-opacity:0.30;*/
+	font-size: 60%;	
+	text-align:center;
+}
+
+#rules iframe
+{
+	width:95%;
+	/*margin:5% auto;*/
+	margin:5px;
+	height: 90%;
+}
+
+#technikBox , #tatami
+{
+	 
+	border: 1px solid #00ff00;
+	padding: 5px;	 		
+	
+	width: 400px;
+	
+	height: 200px;		
+	
+	/*position:absolute;*/
+	
+ 	/*left:300px ;*/
+	margin: 0 auto;
+	
+	/*display:none;*/
+	
+	background: url(tatami.gif) bottom center  no-repeat #fff;
+	
+
+}
+
+.player
+{	
+	/*border: 1px solid #fff;	*/
+	width: 75px;
+	height: 75px;
+}
+
+#tore
+{
+	background: url(ken-icon.gif)   no-repeat;
+		
+	margin:10% 0 0 60%; 
+	display:block;
+}
+
+#uke
+{
+	background: url(ryu-icon.gif)   no-repeat;		
+	margin:0 10% 10% 40%;	
+}
+	
+#ToreBox
+{
+	border: 2px dashed #44ff44;			
+}
+	
+#UkeBox
+{	
+	border: 2px dashed #fff;			
+}
