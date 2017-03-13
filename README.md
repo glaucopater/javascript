@@ -8,3 +8,4 @@ Various demos/concepts/experiments made with JS (library and custom script)
 * De-Motivationals
 * MatrixView
 * Randori
+* Battleship
